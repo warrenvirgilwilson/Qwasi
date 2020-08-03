@@ -1,0 +1,34 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Qwasi"
+        xmlns:UI="clr-namespace:Qwasi.GraphUI"
+        xmlns:WPF="clr-namespace:Qwasi.WPF"
+        xmlns:Controls="clr-namespace:Qwasi.WPF.Controls" x:Class="Qwasi.MainWindow"
+        mc:Ignorable="d"
+        Title="Qwasi: Quantum Walk Simulator" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.5,0.5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="250" MinWidth="250" MaxWidth="300"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Menu VerticalAlignment="Stretch" Grid.Row="0" Background="White" BorderBrush="LightGray" BorderThickness="1,1,0,1">
+                <MenuItem Header="File">
+                    <MenuItem Header="Open" Click="MenuItem_Open"></MenuItem>
+                    <MenuItem Header="Save" Click="MenuItem_Save"></MenuItem>
+                </MenuItem>
+            </Menu>
+            <WPF:WPFGraphControl x:Name="GraphControl" Height="Auto" Width="Auto" Grid.Row="1"/>
+        </Grid>
+        <WPF:WPFCommandPanel x:Name="CommandPanel" BorderBrush="LightGray" BorderThickness="1,0,0,0" Grid.Column="1"/>
+        <GridSplitter x:Name="GS" Height="Auto" Width="4" Background="Transparent" HorizontalAlignment="Left" Grid.Column="1"/>
+        <Controls:WPFLabel HorizontalAlignment="Left" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

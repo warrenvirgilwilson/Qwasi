@@ -1,0 +1,9 @@
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\bin\Debug\netstandard2.0\QWSimMath.deps.json
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\bin\Debug\netstandard2.0\QWSimMath.dll
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\bin\Debug\netstandard2.0\QWSimMath.pdb
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.0\QWSimMath.csprojAssemblyReference.cache
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.0\QWSimMath.csproj.CoreCompileInputs.cache
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.0\QWSimMath.AssemblyInfoInputs.cache
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.0\QWSimMath.AssemblyInfo.cs
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.0\QWSimMath.dll
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.0\QWSimMath.pdb

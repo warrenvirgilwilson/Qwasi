@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QwasiGraph>
+  <Vertices />
+  <Edges />
+  <StarGraph Position="268.77777777777777,197.55555555555554" GraphRadius="150" RotationAngle="0">
+    <CenterVertex Index="0" ID="0" IDType="Sequential" />
+    <Vertices>
+      <Vertex Index="1" ID="1" IDType="Sequential" />
+      <Vertex Index="2" ID="2" IDType="Sequential" />
+      <Vertex Index="3" ID="3" IDType="Sequential" />
+      <Vertex Index="4" ID="4" IDType="Sequential" />
+      <Vertex Index="5" ID="5" IDType="Sequential" />
+    </Vertices>
+    <Edges>
+      <Edge Vertex1="0" Vertex2="1" />
+      <Edge Vertex1="0" Vertex2="2" />
+      <Edge Vertex1="0" Vertex2="3" />
+      <Edge Vertex1="0" Vertex2="4" />
+      <Edge Vertex1="0" Vertex2="5" />
+      <Edge Vertex1="1" Vertex2="5" />
+    </Edges>
+  </StarGraph>
+</QwasiGraph>

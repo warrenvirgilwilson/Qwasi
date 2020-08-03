@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Qwasi", "Qwasi\Qwasi.csproj", "{82CC35A1-378F-4896-8B54-5C4932D6E251}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneralMath", "GeneralMath\GeneralMath.csproj", "{6558673C-3962-4871-ABEF-0F221522C089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82CC35A1-378F-4896-8B54-5C4932D6E251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CC35A1-378F-4896-8B54-5C4932D6E251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CC35A1-378F-4896-8B54-5C4932D6E251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CC35A1-378F-4896-8B54-5C4932D6E251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6558673C-3962-4871-ABEF-0F221522C089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6558673C-3962-4871-ABEF-0F221522C089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6558673C-3962-4871-ABEF-0F221522C089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6558673C-3962-4871-ABEF-0F221522C089}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56E6D254-3879-4563-B02F-18289F32A3D4}
+	EndGlobalSection
+EndGlobal
