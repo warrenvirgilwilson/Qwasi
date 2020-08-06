@@ -5,16 +5,22 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
     <LangVersion>latest</LangVersion>
+    <Authors>Warren Virgil Wilson</Authors>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Extended.Wpf.Toolkit" Version="4.0.1" />
-    <PackageReference Include="LiveCharts" Version="0.9.7" />
     <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\QwasiMath\QwasiMath.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Xceed.Wpf.Toolkit">
+      <HintPath>Xceed.Wpf.Toolkit.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
