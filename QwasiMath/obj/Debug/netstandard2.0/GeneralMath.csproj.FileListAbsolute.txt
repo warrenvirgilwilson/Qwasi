@@ -1,8 +1,0 @@
-D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.0\GeneralMath.csprojAssemblyReference.cache
-D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.0\GeneralMath.AssemblyInfoInputs.cache
-D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.0\GeneralMath.AssemblyInfo.cs
-D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\bin\Debug\netstandard2.0\GeneralMath.deps.json
-D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\bin\Debug\netstandard2.0\GeneralMath.dll
-D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\bin\Debug\netstandard2.0\GeneralMath.pdb
-D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.0\GeneralMath.dll
-D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.0\GeneralMath.pdb
