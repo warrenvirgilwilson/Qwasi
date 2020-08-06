@@ -1,0 +1,34 @@
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.1\GeneralMath.AssemblyInfoInputs.cache
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.1\GeneralMath.AssemblyInfo.cs
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\bin\Debug\netstandard2.1\GeneralMath.deps.json
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\bin\Debug\netstandard2.1\GeneralMath.dll
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\bin\Debug\netstandard2.1\GeneralMath.pdb
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.1\GeneralMath.dll
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.1\GeneralMath.pdb
+D:\Users\warre\Google Drive\Visual Studio\QWSimulator\QWSimMath\obj\Debug\netstandard2.1\GeneralMath.csprojAssemblyReference.cache
+D:\Users\warre\Google Drive\Visual Studio\QWSim\QWSimMath\obj\Debug\netstandard2.1\GeneralMath.AssemblyInfoInputs.cache
+D:\Users\warre\Google Drive\Visual Studio\QWSim\QWSimMath\obj\Debug\netstandard2.1\GeneralMath.AssemblyInfo.cs
+D:\Users\warre\Google Drive\Visual Studio\QWSim\QWSimMath\bin\Debug\netstandard2.1\GeneralMath.deps.json
+D:\Users\warre\Google Drive\Visual Studio\QWSim\QWSimMath\bin\Debug\netstandard2.1\GeneralMath.dll
+D:\Users\warre\Google Drive\Visual Studio\QWSim\QWSimMath\bin\Debug\netstandard2.1\GeneralMath.pdb
+D:\Users\warre\Google Drive\Visual Studio\QWSim\QWSimMath\obj\Debug\netstandard2.1\GeneralMath.dll
+D:\Users\warre\Google Drive\Visual Studio\QWSim\QWSimMath\obj\Debug\netstandard2.1\GeneralMath.pdb
+D:\Users\warre\Google Drive\Visual Studio\QWSim\QWSimMath\obj\Debug\netstandard2.1\GeneralMath.csprojAssemblyReference.cache
+D:\Users\warre\Google Drive\Visual Studio\Qwasi\GeneralMath\bin\Debug\netstandard2.1\GeneralMath.deps.json
+D:\Users\warre\Google Drive\Visual Studio\Qwasi\GeneralMath\bin\Debug\netstandard2.1\GeneralMath.dll
+D:\Users\warre\Google Drive\Visual Studio\Qwasi\GeneralMath\bin\Debug\netstandard2.1\GeneralMath.pdb
+D:\Users\warre\Google Drive\Visual Studio\Qwasi\GeneralMath\obj\Debug\netstandard2.1\GeneralMath.AssemblyInfoInputs.cache
+D:\Users\warre\Google Drive\Visual Studio\Qwasi\GeneralMath\obj\Debug\netstandard2.1\GeneralMath.AssemblyInfo.cs
+D:\Users\warre\Google Drive\Visual Studio\Qwasi\GeneralMath\obj\Debug\netstandard2.1\GeneralMath.dll
+D:\Users\warre\Google Drive\Visual Studio\Qwasi\GeneralMath\obj\Debug\netstandard2.1\GeneralMath.pdb
+D:\Users\warre\Google Drive\Visual Studio\Qwasi\GeneralMath\obj\Debug\netstandard2.1\GeneralMath.csproj.CoreCompileInputs.cache
+D:\Users\warre\Google Drive\Visual Studio\Qwasi\GeneralMath\obj\Debug\netstandard2.1\GeneralMath.csprojAssemblyReference.cache
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\GeneralMath\bin\Debug\netstandard2.1\GeneralMath.deps.json
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\GeneralMath\bin\Debug\netstandard2.1\GeneralMath.dll
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\GeneralMath\bin\Debug\netstandard2.1\GeneralMath.pdb
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\GeneralMath\obj\Debug\netstandard2.1\GeneralMath.csprojAssemblyReference.cache
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\GeneralMath\obj\Debug\netstandard2.1\GeneralMath.AssemblyInfoInputs.cache
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\GeneralMath\obj\Debug\netstandard2.1\GeneralMath.AssemblyInfo.cs
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\GeneralMath\obj\Debug\netstandard2.1\GeneralMath.csproj.CoreCompileInputs.cache
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\GeneralMath\obj\Debug\netstandard2.1\GeneralMath.dll
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\GeneralMath\obj\Debug\netstandard2.1\GeneralMath.pdb

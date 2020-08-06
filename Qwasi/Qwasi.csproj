@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GeneralMath\GeneralMath.csproj" />
+    <ProjectReference Include="..\QwasiMath\QwasiMath.csproj" />
   </ItemGroup>
 
 </Project>

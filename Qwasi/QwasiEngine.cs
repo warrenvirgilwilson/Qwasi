@@ -1,6 +1,6 @@
-﻿using GeneralMath.Expressions;
-using GeneralMath.Expressions.HilbertSpace;
-using GeneralMath.Expressions.Vectors;
+﻿using QwasiMath.Expressions;
+using QwasiMath.Expressions.HilbertSpace;
+using QwasiMath.Expressions.Vectors;
 using Microsoft.Win32;
 using Qwasi.GraphUI;
 using Qwasi.HilbertSpaceMath;

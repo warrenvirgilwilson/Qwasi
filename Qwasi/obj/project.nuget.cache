@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "irvt94GlyzvdY90lFP3V3ec13Gm4DDkWUZ+Z82FuKgDwQkNnBIEc/DB5DIFqZk2rbIo/7feerbQOzveI8HqtEA==",
+  "dgSpecHash": "G08lsQE2v3+Kc+Mk+yp3w2K7fIwMm0p6d667jY2LnIWTAHv3EgSNi09ueAHu8r0S3j5eglzuGH6yf8BC5k7+yw==",
   "success": true,
-  "projectFilePath": "D:\\Users\\warre\\Google Drive\\Visual Studio\\Qwasi\\Qwasi\\Qwasi.csproj",
+  "projectFilePath": "D:\\Users\\warre\\Google Drive\\GitHub\\Repos\\warrenvirgilwilson\\Qwasi\\Qwasi\\Qwasi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\warre\\.nuget\\packages\\extended.wpf.toolkit\\4.0.1\\extended.wpf.toolkit.4.0.1.nupkg.sha512",
     "C:\\Users\\warre\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",

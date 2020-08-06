@@ -75,14 +75,14 @@
           "lib/net45/LiveCharts.Wpf.dll": {}
         }
       },
-      "GeneralMath/1.0.0": {
+      "QwasiMath/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "compile": {
-          "bin/placeholder/GeneralMath.dll": {}
+          "bin/placeholder/QwasiMath.dll": {}
         },
         "runtime": {
-          "bin/placeholder/GeneralMath.dll": {}
+          "bin/placeholder/QwasiMath.dll": {}
         }
       }
     }
@@ -158,18 +158,18 @@
         "tools/install.ps1"
       ]
     },
-    "GeneralMath/1.0.0": {
+    "QwasiMath/1.0.0": {
       "type": "project",
-      "path": "../GeneralMath/GeneralMath.csproj",
-      "msbuildProject": "../GeneralMath/GeneralMath.csproj"
+      "path": "../QwasiMath/QwasiMath.csproj",
+      "msbuildProject": "../QwasiMath/QwasiMath.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Extended.Wpf.Toolkit >= 4.0.1",
-      "GeneralMath >= 1.0.0",
       "LiveCharts >= 0.9.7",
-      "LiveCharts.Wpf >= 0.9.7"
+      "LiveCharts.Wpf >= 0.9.7",
+      "QwasiMath >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -180,11 +180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\warre\\Google Drive\\Visual Studio\\Qwasi\\Qwasi\\Qwasi.csproj",
+      "projectUniqueName": "D:\\Users\\warre\\Google Drive\\GitHub\\Repos\\warrenvirgilwilson\\Qwasi\\Qwasi\\Qwasi.csproj",
       "projectName": "Qwasi",
-      "projectPath": "D:\\Users\\warre\\Google Drive\\Visual Studio\\Qwasi\\Qwasi\\Qwasi.csproj",
+      "projectPath": "D:\\Users\\warre\\Google Drive\\GitHub\\Repos\\warrenvirgilwilson\\Qwasi\\Qwasi\\Qwasi.csproj",
       "packagesPath": "C:\\Users\\warre\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\warre\\Google Drive\\Visual Studio\\Qwasi\\Qwasi\\obj\\",
+      "outputPath": "D:\\Users\\warre\\Google Drive\\GitHub\\Repos\\warrenvirgilwilson\\Qwasi\\Qwasi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -205,8 +205,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Users\\warre\\Google Drive\\Visual Studio\\Qwasi\\GeneralMath\\GeneralMath.csproj": {
-              "projectPath": "D:\\Users\\warre\\Google Drive\\Visual Studio\\Qwasi\\GeneralMath\\GeneralMath.csproj"
+            "D:\\Users\\warre\\Google Drive\\GitHub\\Repos\\warrenvirgilwilson\\Qwasi\\QwasiMath\\QwasiMath.csproj": {
+              "projectPath": "D:\\Users\\warre\\Google Drive\\GitHub\\Repos\\warrenvirgilwilson\\Qwasi\\QwasiMath\\QwasiMath.csproj"
             }
           }
         }

@@ -1,0 +1,9 @@
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\QwasiMath\bin\Debug\netstandard2.1\QwasiMath.deps.json
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\QwasiMath\bin\Debug\netstandard2.1\QwasiMath.dll
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\QwasiMath\bin\Debug\netstandard2.1\QwasiMath.pdb
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\QwasiMath\obj\Debug\netstandard2.1\QwasiMath.csprojAssemblyReference.cache
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\QwasiMath\obj\Debug\netstandard2.1\QwasiMath.AssemblyInfoInputs.cache
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\QwasiMath\obj\Debug\netstandard2.1\QwasiMath.AssemblyInfo.cs
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\QwasiMath\obj\Debug\netstandard2.1\QwasiMath.csproj.CoreCompileInputs.cache
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\QwasiMath\obj\Debug\netstandard2.1\QwasiMath.dll
+D:\Users\warre\Google Drive\GitHub\Repos\warrenvirgilwilson\Qwasi\QwasiMath\obj\Debug\netstandard2.1\QwasiMath.pdb
